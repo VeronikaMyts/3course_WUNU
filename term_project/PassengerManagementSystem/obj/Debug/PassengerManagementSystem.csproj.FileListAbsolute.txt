@@ -1,0 +1,58 @@
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.exe
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.dll
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.exe.config
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.xml
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.AssemblyReference.cache
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.LoginForm.resources
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Properties.Resources.resources
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.GenerateResource.cache
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.CoreCompileInputs.cache
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\Passenge.62A0CFFC.Up2Date
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.exe
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.pdb
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.pdb
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.MainForm.resources
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.PassengerForm.resources
+D:\ЗУНУ 3 КУРС\База даних\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Migrations.InitialCreate.resources
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.exe.config
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.exe
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.pdb
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.LoginForm.resources
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.MainForm.resources
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.PassengerForm.resources
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Migrations.InitialCreate.resources
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Properties.Resources.resources
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.GenerateResource.cache
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\Passenge.62A0CFFC.Up2Date
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.exe
+C:\Users\strog\OneDrive\Рабочий стол\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.pdb
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.exe.config
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.exe
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\PassengerManagementSystem.pdb
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.dll
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.xml
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.AssemblyReference.cache
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.LoginForm.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.MainForm.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.PassengerForm.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Migrations.InitialCreate.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Properties.Resources.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.GenerateResource.cache
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.csproj.CoreCompileInputs.cache
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\Passenge.62A0CFFC.Up2Date
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.exe
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.pdb
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.RouteForm.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.TourForm.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.TicketForm.resources
+D:\Course\Course\PassengerManagementSystem\PassengerManagementSystem\obj\Debug\PassengerManagementSystem.Forms.CarrierForm.resources
