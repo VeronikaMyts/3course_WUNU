@@ -9,3 +9,5 @@ The file “Team Project” contains a collaborative work — a website about fo
 https://github.com/VeronikaMyts/3course_WUNU/tree/main/Teamwork
 
 https://github.com/VeronikaMyts/3course_WUNU/tree/main/JS(apiko%20course)/TheMovieDB
+
+https://github.com/VeronikaMyts/3course_WUNU/tree/main/term_project
