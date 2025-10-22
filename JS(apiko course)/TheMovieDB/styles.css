@@ -1,0 +1,140 @@
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #4c2b6c;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a#logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+nav.header.button {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+header button {
+    background-color: #5e3370;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+header button:hover {
+    background-color: #e09bc9;
+}
+
+
+#search-input {
+    border: 2px solid #4c2b6c;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    color: #d3d3d3;
+    background-color: #333333;
+    margin-left: 10px;
+}
+
+
+#app {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+
+.movie {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(44, 41, 41);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: 2px solid #4c2b6c;
+  
+    
+}
+
+.movie img {
+    width: 100%;
+    height: auto;
+   
+    border-radius: 8px;
+    object-fit: cover;
+    
+}
+
+.movie h3 {
+    font-size: 18px;
+    margin: 10px 0;
+    height: 90px;
+}
+
+.movie p {
+    font-size: 14px;
+    color: #666;
+    height: 60px;
+    overflow: hidden;
+    
+}
+
+
+.movie:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.bookmark-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #ff6f61;
+   
+    transition: color 0.3s, transform 0.3s;
+    outline: none;
+    
+    box-shadow: none;
+   
+}
+
+
+.bookmark-btn:hover {
+    color: #ff4081;
+}
+
+
+.bookmark-btn.active {
+    color: #ff4081;
+    
+}
+
+
+.bookmark-btn:active {
+    transform: scale(1.1);
+}
